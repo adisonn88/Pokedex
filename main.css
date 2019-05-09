@@ -1,0 +1,14 @@
+
+  
+@font-face {
+    font-family: 'pokemon-font';
+    src: url(pokemon-font-master/fonts/pokemon-font.ttf);
+    font-weight: 100;
+    font-style: normal;
+
+  }
+
+h1,#pokemons,#stats {
+    font-family: 'pokemon-font';
+    
+}
